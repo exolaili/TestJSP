@@ -12,11 +12,11 @@
 </head>
 <body>
 <form action="/test2">
-    <input type="submit" value="发送GET请求">
+    <input type="submit" value="正在发送GET请求">
 </form>
 
 <form action="/test2" method="post">
-    <input type="submit" value="发送POST请求">
+    <input type="submit" value="正在发送POST请求">
 </form>
 </body>
 </html>
